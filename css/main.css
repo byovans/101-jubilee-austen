@@ -40,6 +40,7 @@ header {
 header h1 {
         color: #006400;
         padding: 65px 0 65px 25px;
+        text-shadow: -2px 2px 2px #000fff;
         
 }
 
@@ -103,11 +104,12 @@ header h2 span {
 
 
 #about p {
-        color: #000000;
-        font-size: 17px;
+        color: green;
+        font-size: 20px;
         line-height: 23px;
         padding-left: 0px;
         padding-right: 25px;
+        text-align: justify;
 }
 
 
@@ -190,12 +192,23 @@ header h2 span {
 
 
 #contact a {
-        color: #000fff;
+        color: #000000;
         margin-left: 20px;
         text-align: right;
         font-size: medium;
         text-decoration: none;
         font-weight: normal;
+}
+
+
+
+a:hover {
+        color: maroon;
+}
+
+
+#contact a:hover {
+        color: maroon;
 }
 
 
