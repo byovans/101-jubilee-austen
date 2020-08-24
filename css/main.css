@@ -40,7 +40,7 @@ header {
 header h1 {
         color: #006400;
         padding: 65px 0 65px 25px;
-        text-shadow: -2px 2px 2px #000fff;
+        text-shadow: -2px 2px 6px #000fff;
         
 }
 
@@ -65,7 +65,7 @@ nav ul li {
 
 
 nav ul li a {
-        color: #006400;
+        color: #000000;
         font-size: 20px;
         text-decoration: none;
         text-transform: capitalize;
@@ -81,6 +81,8 @@ header h2 {
         font-size: 50px;
         line-height: normal;
         padding: 20px 0 20px 25px;
+        text-shadow: -2px 2px 6px #000fff;
+
 }
 
 
