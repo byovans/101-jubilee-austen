@@ -39,6 +39,7 @@ header {
 
 header h1 {
         color: #006400;
+        font-size: 50px;
         padding: 65px 0 65px 25px;
         text-shadow: -2px 2px 6px #000fff;
         
@@ -100,13 +101,13 @@ header h2 span {
 
 #about h2 {
         font-family: 'Lora' serif;
-        font-size: 20px;
+        font-size: 40px;
         padding-left: 10px;
 }
 
 
 #about p {
-        color: green;
+        color: #848484;
         font-size: 20px;
         line-height: 23px;
         padding-left: 0px;
@@ -195,7 +196,7 @@ header h2 span {
 
 #contact a {
         color: #000000;
-        margin-left: 20px;
+        margin-left: 25px;
         text-align: right;
         font-size: medium;
         text-decoration: none;
@@ -216,8 +217,9 @@ a:hover {
 
 #contact ul {
         list-style: none;
-        padding-left: 170px;
+        padding-left: 155px;
         width: 380px;
+        margin-right: 10px;
 }
 
 
@@ -232,10 +234,13 @@ a:hover {
 }
 
 
-img#envelope {
-        padding-bottom: 0;
+.fas {
+        padding-left: 70px;
         margin-right: 10px;
 }
+
+
+
 
 
 
