@@ -49,19 +49,20 @@ header h1 {
 nav {
         float: right;
         padding: 75px 5px;
+        width: 350px;
 }
 
 
 ul {
-        width: 300px;
-        padding-inline-start: 0;
+        width: 350px;
+        margin-top: 45px;
 }
 
 
 nav ul li {
         display: inline-block;
-        margin: 0;
-        padding-right: 10px;
+        margin: 0 10px;
+        padding-right: 40px;
 }
 
 
